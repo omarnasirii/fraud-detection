@@ -15,10 +15,9 @@ Built with **Python (scikit-learn, Pandas, Streamlit) and SQL**.
   - Comparing model performance with precision, recall, and F1-score.
 - Visualizes fraud vs. non-fraud transactions using **Plotly**.
 
----
-
 ## 📂 Project Structure
----
+
+<img width="306" height="445" alt="Screenshot 2025-08-28 200147" src="https://github.com/user-attachments/assets/bca97c84-dbed-436b-9d8e-1e491d0d4cce" />
 
 ## ⚙️ Setup Instructions
 
@@ -44,6 +43,7 @@ pip install -r requirements.txt
 ### 5. Download Dataset
 
 Download the Credit Card Fraud Dataset
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com
  and place it in a folder named data/.
 
 mkdir data
